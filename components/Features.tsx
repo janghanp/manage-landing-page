@@ -3,7 +3,7 @@ const Features = () => {
     <div className="flex flex-col lg:flex-row justify-center lg:justify-between items-center lg:items-start max-w-[1110px] mx-auto my-24 py-2">
       <div className="flex flex-col w-[445px] items-center lg:items-start mb-14">
         <h1 className="text-darkBlue text-3xl w-[332px] lg:w-auto font-bold mb-5 lg:mb-10 text-center lg:text-left">
-          What's different about Manage?
+          What&apos;s different about Manage?
         </h1>
         <p className="text-base text-gray-400 w-[350px] text-center lg:text-left">
           Manage provides all the functionality your team needs, without the

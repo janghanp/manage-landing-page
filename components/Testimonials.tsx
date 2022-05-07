@@ -32,7 +32,7 @@ const Testimonials = () => {
   return (
     <div className="flex flex-col items-center mt-40">
       <h1 className="font-bold text-4xl text-darkBlue mb-24">
-        What they've said
+        What they&apos;ve said
       </h1>
       <EmblaCarousel
         options={{
