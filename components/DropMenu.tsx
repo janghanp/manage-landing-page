@@ -15,7 +15,7 @@ const Dropmenu = () => {
     <>
       {globalIsOpen && (
         <animated.div
-          className="absolute top-32 bg-white z-20 w-11/12 mx-auto px-5 py-10 rounded-sm shadow-md"
+          className="absolute top-32 bg-white z-20 left-4 w-11/12 px-5 py-10 rounded-sm shadow-md"
           style={menuApper}
         >
           <ul className="flex flex-col justify-center items-center gap-y-7">

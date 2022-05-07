@@ -1,28 +1,28 @@
 import EmblaCarousel from "./EmblaCarousel";
 
-import avart1 from "../public/assets/avatar-ali.png";
-import avart2 from "../public/assets/avatar-anisha.png";
-import avart3 from "../public/assets/avatar-richard.png";
-import avart4 from "../public/assets/avatar-shanai.png";
+import avatar1 from "../public/assets/avatar-ali.png";
+import avatar2 from "../public/assets/avatar-anisha.png";
+import avatar3 from "../public/assets/avatar-richard.png";
+import avatar4 from "../public/assets/avatar-shanai.png";
 
 const slides = [
   {
-    image: avart1,
+    image: avatar1,
     name: "Ali Bravo",
     body: "“We have been able to cancel so many other subscriptions since using Manage. There is no more cross-channel confusion and everyone is much more focused.”",
   },
   {
-    image: avart2,
+    image: avatar2,
     name: "Anisha Li",
     body: "  “Manage has supercharged our team’s workflow. The ability to maintain visibility on larger milestones at all times keeps everyone motivated.”",
   },
   {
-    image: avart3,
+    image: avatar3,
     name: "Richard Watts",
     body: "“Manage allows us to provide structure and process. It keeps us organized and focused. I can’t stop recommending them to everyone I talk to!”",
   },
   {
-    image: avart4,
+    image: avatar4,
     name: "Shanai Park",
     body: "“We have been able to cancel so many other subscriptions since using Manage. There is no more cross-channel confusion and everyone is much more focused.”",
   },

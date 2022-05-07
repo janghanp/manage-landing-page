@@ -1,6 +1,6 @@
 const CTA = () => {
   return (
-    <div className="w-full h-[405px] lg:h-[220px] bg-brightRed flex justify-center mt-10 lg:px-[165px]">
+    <div id="cta" className="w-full h-[405px] lg:h-[220px] bg-brightRed flex justify-center mt-10 lg:px-[165px]">
       <div className="w-[312px] lg:w-full flex flex-col lg:flex-row justify-center lg:justify-between items-center">
         <h1 className="text-white font-bold text-4xl text-center lg:text-left lg:w-[445px]">
           Simplify how your team works today.
